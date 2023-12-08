@@ -4,6 +4,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="swiggyrepoFlow" doc:id="2370a6d3-9df5-4852-a61b-802545480067" >
+		<logger level="INFO" doc:name="Logger" doc:id="afde92ec-2a35-42a2-bbe2-55bf7bcae367" />
 		<logger level="INFO" doc:name="Logger" doc:id="c1a51112-8b65-403f-a9da-fb4043f22198" />
 	</flow>
 </mule>
